@@ -15,5 +15,7 @@ class MainActivity : AppCompatActivity() {
         // jonh added method C
 
         // marco added method D
+
+        // add method E
     }
 }
